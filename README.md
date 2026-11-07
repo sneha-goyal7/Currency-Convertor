@@ -11,7 +11,7 @@ A fast and simple **real-time currency converter** built with **HTML, CSS and va
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🌐 [Try the Live Demo](https://currency-convertor-sneha.netlify.app)
+### 🌐 [Try the Live Demo](https://currency-convertor-snehaa.netlify.app)
 
 [🐛 Report Bug](https://github.com/sneha-goyal7/Currency-Convertor/issues) · [✨ Request Feature](https://github.com/sneha-goyal7/Currency-Convertor/issues)
 
